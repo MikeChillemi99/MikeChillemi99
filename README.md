@@ -19,28 +19,6 @@ I enjoy bridging the gap between **technical teams and business needs**, ensurin
 
 ---
 
-## 🛠 Technical Skills
-
-**Frontend**
-
-React • JavaScript • HTML • CSS • Vite
-
-**Backend**
-
-Node.js • PHP • SQL
-
-**Project Management**
-
-Agile • Scrum • ITIL • Hermes
-
----
-
-## 📊 GitHub Stats
-
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeChillemi99&show_icons=true)
-
----
-
 ## 🌍 Projects, Interests & Training
 
 - IT systems for public transport

@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Mike Chillemi 👋
 
-<!--
-**MikeChillemi99/MikeChillemi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Project Manager & Developer based in Switzerland 🇨🇭  
+Passionate about technology, software development and innovative IT solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am an **IT Project Manager with a technical background in software development**, currently working on large-scale digital solutions and transport systems.
+
+I enjoy bridging the gap between **technical teams and business needs**, ensuring that projects are delivered efficiently while maintaining high technical standards.
+
+- 💼 IT Project Manager
+- 💻 Background in Web Development
+- 🚌 Working on IT systems for **public transport solutions**
+- 🧠 Passionate about **technology, innovation and project management**
+- 🎓 Swiss Federal Diploma in Business IT
+
+---
+
+## 🛠 Technical Skills
+
+**Frontend**
+
+React • JavaScript • HTML • CSS • Vite
+
+**Backend**
+
+Node.js • PHP • SQL
+
+**Project Management**
+
+Agile • Scrum • ITIL • Hermes
+
+---
+
+## 📊 GitHub Stats
+
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeChillemi99&show_icons=true)
+
+---
+
+## 🌍 Projects, Interests & Training
+
+- IT systems for public transport
+- Real-time passenger information systems
+- Web development projects
+- Technology & innovation
+- Training and mentoring in IT
